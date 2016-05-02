@@ -1,4 +1,4 @@
 linter:
   eslint:
     options:
-      config: 'lint_yml/.eslintrc'
+      config: '.eslintrc.yml'
